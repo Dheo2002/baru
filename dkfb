@@ -87,7 +87,7 @@ def loginSC():
 	if username =="dkfb" and password =="facebook":
 		print"\033[1;96m[✓] \033[1;92mLogin success"
 		time.sleep(1)
-		login(Angkel mutu)
+		login()
 	else:
 		print"\033[1;96m[!] \033[1;91mBenar!!"
 		time.sleep(1)
